@@ -47,9 +47,11 @@ The model computes:
 - Performance under uncertainty
 
 ## 🖥️ Sample Output (Add your results here)
-- Expected Power = XXX W
-- Capacity Factor = XX%
+- Expected Power = 601.1 kW
+- Capacity Factor = 30.1%
 - Graphs: Power vs Wind Speed
+- <img width="536" height="475" alt="image" src="https://github.com/user-attachments/assets/57b8776e-e92b-4487-b268-3849fc8c0b56" />
+
 
 ## 🛠️ Tools & Technologies
 - MATLAB
